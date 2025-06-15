@@ -42,4 +42,5 @@ git clone https://github.com/Tabyretkadp/GhostKey
 cd GhostKey
 sudo chmod +x install.sh
 ./install.sh
+make
 
