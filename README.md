@@ -39,7 +39,7 @@ Clone the repository and build the project:
 
 ```bash
 git clone https://github.com/Tabyretkadp/GhostKey
-cd ghostkey
+cd GhostKey
 sudo chmod +x install.sh
 ./install.sh
 
