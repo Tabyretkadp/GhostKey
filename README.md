@@ -1,6 +1,6 @@
 <div align = center>
 
-<img src="/core/visual/LOGO.png" alt="Logo" width="200"/>
+<img src="/core/visual/Logo.png" alt="Logo" width="200"/>
 
 <br>
 
